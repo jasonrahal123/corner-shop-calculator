@@ -1,0 +1,23 @@
+type: hyperskill
+title: Corner Shop Calculator
+language: English
+summary: "<p>Ever dreamed of owning a shop? Let's dive in! This project will teach\
+  \ you how to calculate your shop's net income using Python. Build a handy tool to\
+  \ track your earnings by inputting product sales, staff costs, and other expenses\
+  \ and watch Python crunch the numbers for you! By the end, you'll have a practical\
+  \ calculator that will give you a clear picture of your shop's financial health.\
+  \ No accounting degree required!</p>"
+programming_language: Python
+programming_language_version: 3.10
+environment: unittest
+content:
+  - Corner Shop Calculator
+additional_files:
+  - name: .idea/inspectionProfiles/Project_Default.xml
+    visible: true
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+    visible: true
+  - name: requirements.txt
+    visible: true
+mode: Study
+yaml_version: 5

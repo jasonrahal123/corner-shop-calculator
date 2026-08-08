@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: calculator.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: true
+    learner_created: false
+  - name: test/tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/343/stages/2018/implement#comment
+status: Failed
+feedback:
+  message: "Wrong answer in test #1"
+  time: "Sat, 08 Aug 2026 05:59:36 UTC"
+record: -1
