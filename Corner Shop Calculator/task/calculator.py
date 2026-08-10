@@ -16,5 +16,5 @@ Doughnut = 1075
 Pancake = 80
 
 income = Bubblegum + Toffee + Icecream + Milkchocolate + Doughnut + Pancake
-print("Income: $" + income)
+print("Income: $", income)
 

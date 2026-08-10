@@ -10,8 +10,8 @@ files:
   - name: tests.py
     learner_created: false
 feedback_link: https://hyperskill.org/projects/343/stages/2018/implement#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Exception in test #1"
-  time: "Mon, 10 Aug 2026 04:24:31 UTC"
+  message: Congratulations!
+  time: "Mon, 10 Aug 2026 04:31:30 UTC"
 record: -1
