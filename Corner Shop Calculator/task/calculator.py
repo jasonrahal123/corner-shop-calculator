@@ -1,9 +1,20 @@
 # Write your code here
-print("Prices: ")
-print("Bubblegum: $0.2")
-print("Toffee: $0.2")
-print("Ice cream: $5")
-print("Milk chocolate: $4")
-print("Doughnut: $2.5")
-print("Pancake: $3.2")
+print("Earned amount:")
+print("Bubblegum: $202")
+print("Toffee: $118")
+print("Ice cream: $2250")
+print("Milk chocolate: $1680")
+print("Doughnut: $1075")
+print("Pancake: $80")
+
+
+Bubblegum = 202
+Toffee = 118
+Icecream = 2250
+Milkchocolate = 1680
+Doughnut = 1075
+Pancake = 80
+
+income = Bubblegum + Toffee + Icecream + Milkchocolate + Doughnut + Pancake
+print("Income: $" + income)
 
