@@ -18,3 +18,12 @@ Pancake = 80
 income = Bubblegum + Toffee + Icecream + Milkchocolate + Doughnut + Pancake
 print("Income: $", income)
 
+print("Staff expenses: ")
+staff_expenses = float(input())
+
+print("Other expenses: ")
+other_expenses = float(input())
+
+net_income = income - staff_expenses - other_expenses
+print("Net income: $", net_income)
+
